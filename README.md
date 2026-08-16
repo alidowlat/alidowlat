@@ -1,20 +1,178 @@
-<h1 align="center">Hi 👋, I'm Ali Dolat</h1>
-<h3 align="center">A passionate back-end developer from iran</h3>
+<h1 align="center">
+  Ali Dolat
+</h1>
 
-- 🔭 I’m currently working on **Pet Sana Nik**
+<h3 align="center">
+  Backend Engineer | Python & Django | Scalable Systems
+</h3>
 
-- 🌱 I’m currently learning **Anything !**
-
-- 👨‍💻 All of my projects are available at [Here](Here)
-
-- 💬 Ask me about **Django Django Django Django...**
-
-- 📫 How to reach me **alidolatdev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Building reliable backend systems, scalable architectures, and production-ready infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/alidolatabadi">LinkedIn</a>
+  •
+  <a href="mailto:alidolatdev@gmail.com">Email</a>
+</p>
 
+
+---
+
+## About Me
+
+Backend Engineer focused on building scalable and maintainable systems with Python and Django.
+
+I have around 3 years of software development experience and 2 years of professional freelance experience, working on real-world products across marketplaces, educational platforms, real-time applications, and AI-powered systems.
+
+My main interests are backend architecture, database design, system scalability, and production infrastructure.
+
+
+---
+
+# Experience
+
+
+## Sana Nik Pendar — DevOps Engineer
+
+**2026 - Present**
+
+Working on the infrastructure layer of Pet Sana, an AI-powered platform designed to support pet owners and veterinary services in a secure and production-ready environment.
+
+Responsibilities:
+
+- Designing Docker-based deployment environments
+- Managing Linux production infrastructure
+- Configuring Nginx reverse proxy and service routing
+- Managing environment configurations and secrets
+- Implementing backup and recovery strategies
+- Establishing health checks and operational practices
+- Supporting reliable deployment workflows
+
+The platform infrastructure supports services built with Next.js, NestJS, PostgreSQL, BullMQ, and OpenAI API integrations.
+
+
+---
+
+## Freelance Backend Engineer
+
+**2024 - Present**
+
+Designing and developing backend systems for real-world clients across different domains.
+
+Working on:
+
+- Django-based backend architectures
+- REST API development
+- Database modeling and optimization
+- Authentication and authorization systems
+- Application structure improvements
+- Production deployments
+
+Focused on building reliable systems with clean architecture and scalable foundations.
+
+
+---
+
+# Engineering Focus
+
+Areas I focus on:
+
+- Clean Architecture
+- Scalable backend design
+- Database optimization
+- REST API design
+- Real-time communication systems
+- Infrastructure reliability
+- Secure authentication flows
+- Production deployment practices
+
+
+---
+
+# Technical Stack
+
+## Backend
+
+`Python` · `Django` · `Django REST Framework` · `Django Channels` · `Celery`
+
+
+## Databases
+
+`PostgreSQL` · `MySQL` · `Redis` · `SQLite`
+
+
+## Infrastructure
+
+`Linux` · `Docker` · `Nginx` · `Git` · `VPS Deployment`
+
+
+## Frontend
+
+Familiar with modern frontend technologies and able to collaborate effectively with frontend teams.
+
+
+---
+# Featured Engineering Work
+
+The following projects represent some of the systems that best reflect my experience in backend development, system design, and building production-oriented applications.
+
+Alongside these projects, I have developed additional backend systems across different domains, focusing on maintainability, scalability, and real-world requirements.
+
+
+## AsanTab — Advertisement Marketplace Platform
+
+A marketplace platform built around advertisement services and user interactions.
+
+The system involved:
+
+- Designing the backend architecture from the ground up
+- Implementing core business workflows
+- Designing data models and application logic
+- Building a maintainable foundation for future scalability
+
+
+---
+
+
+## Alumni Management Platform — Academic Institution Project
+
+A private alumni management platform developed for a university-based organization in Canada.
+
+Due to confidentiality requirements, detailed technical information and source code are not publicly available.
+
+The project involved:
+
+- Designing a modular backend structure
+- Building content and management workflows
+- Developing maintainable systems for institutional use
+- Creating a foundation suitable for long-term expansion
+
+
+---
+
+
+## EnglishNik — Educational Platform
+
+An educational platform focused on children's language learning, online classes, and course management.
+
+The system includes:
+
+- Designing backend services for educational workflows
+- Implementing course and content management logic
+- Supporting online learning operations
+- Building a structured platform for continuous growth
+
+Source code is available upon request.
+
+
+---
+
+# Currently Exploring
+
+- System Design
+- Distributed Systems
+- Cloud Infrastructure
+- Backend Performance Optimization
+
+  
