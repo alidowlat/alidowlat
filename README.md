@@ -33,7 +33,7 @@ My main interests are backend architecture, database design, system scalability,
 # Experience
 
 
-## Sana Nik Pendar — DevOps Engineer
+## Pet Sana Nik — DevOps Engineer
 
 **2026 - Present**
 
